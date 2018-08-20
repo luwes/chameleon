@@ -4,6 +4,8 @@ const sharedVersion = require('../../package.json').version;
 const versions = {
   'packages/cricket/package.json': require('../../packages/cricket/package.json')
     .version,
+  'packages/grasshopper/package.json': require('../../packages/grasshopper/package.json')
+    .version,
   'packages/shared/version.js': require('../../packages/shared/version.js'),
 };
 

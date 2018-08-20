@@ -31,6 +31,18 @@ const bundles = [
     global: 'cricket',
     externals: [],
   },
+  /******* Grasshopper *******/
+  {
+    label: 'grasshopper',
+    bundleTypes: [
+      ES_DEV,
+      ES_PROD,
+    ],
+    moduleType: BASIC,
+    entry: 'grasshopper',
+    global: 'grasshopper',
+    externals: [],
+  },
 ];
 
 // Based on deep-freeze by substack (public domain)
