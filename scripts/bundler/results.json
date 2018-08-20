@@ -1,0 +1,18 @@
+{
+  "bundleSizes": [
+    {
+      "filename": "cricket.js",
+      "bundleType": "ES_DEV",
+      "packageName": "cricket",
+      "size": 136,
+      "gzip": 134
+    },
+    {
+      "filename": "cricket.min.js",
+      "bundleType": "ES_PROD",
+      "packageName": "cricket",
+      "size": 140,
+      "gzip": 136
+    }
+  ]
+}
