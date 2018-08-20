@@ -1,2 +1,2 @@
 /* eslint-env node */
-module.exports = '0.0.1-beta.2';
+module.exports = '0.0.1-beta.3';
