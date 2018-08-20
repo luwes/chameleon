@@ -1,0 +1,8 @@
+{
+  "private": true,
+  "publish": true,
+  "name": "grasshopper",
+  "version": "0.0.1-beta.4",
+  "main": "index.js",
+  "repository": "git@github.com:luwes/chameleon.git"
+}
