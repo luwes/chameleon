@@ -13,6 +13,20 @@
       "packageName": "cricket",
       "size": 162,
       "gzip": 141
+    },
+    {
+      "filename": "grasshopper.js",
+      "bundleType": "ES_DEV",
+      "packageName": "grasshopper",
+      "size": 162,
+      "gzip": 141
+    },
+    {
+      "filename": "grasshopper.min.js",
+      "bundleType": "ES_PROD",
+      "packageName": "grasshopper",
+      "size": 166,
+      "gzip": 143
     }
   ]
 }
